@@ -1,4 +1,4 @@
-DATASET CAN BE DOWNLOAD HERE: http://times.cs.uiuc.edu/~wang296/Data/
+DATASET CAN BE FOUND HERE: http://times.cs.uiuc.edu/~wang296/Data/
 PLEASE MAKE CITATION IF YOU ARE USING THE DATA!!
 
 1. deep_learning contains all self-implemented deep CNN models. 
